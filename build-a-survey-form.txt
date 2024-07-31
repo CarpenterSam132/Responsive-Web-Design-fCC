@@ -1,0 +1,94 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>For Voltran. For the people.</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1 id="title">Voltran Space Corps Sign-Up Form</h1>
+    <p id="quote-1">"Be somebody nobody thought you could be."</p>
+    <p id="description">
+      Make a real change. Have a real impact. Be respected. Be a hero. For Voltran. For the people.</p>
+    <form id="survey-form">
+      <label class="bold" for="name" id="name-label">Enter your name:<input id="name" type="text" placeholder="Name" required></input></label>
+      <label class="bold" for="email" id="email-label">Enter your email:<input id="email" type="email" placeholder="Email" required></input></label>
+      <label class="bold" for="number" id="number-label">Enter your age:<input id="number" type="number" placeholder="Age" min="16" max="70" required></input></label>
+      <label class="bold" for="district" id="district-label">Enter your district:<input id="district" placeholder="District" required></input></label>
+      <label class="bold" for="dropdown">How often do you exercise?
+        <select id="dropdown">
+          <option value="">Select current level of fitness</option>
+          <option value="no-exercise">No Exercise/0 minutes of vigorous exercise a week</option>
+          <option value="light-exercise">Light Exercise/>30 minutes of vigorous exercise a week</option>
+          <option value="moderate-exercise">Moderate Exercise/>75 minutes of vigorous exercise a week</option>
+          <option value="heavy-exercise">Heavy Exercise/>150 minutes of vigorous exercise a week</option>
+        </select>
+      </label>
+      <fieldset>
+        <legend>Current citizenship pertaining to Voltran?</legend>
+        <label>
+          <input class="inline" type="radio" name="citizenship" value="citizen" checked></input> Voltran Citizen</label>
+        <label><input class="inline" type="radio" name="citizenship" value="off-planet-citizen"></input> Voltran Off-Planet Citizen</label>
+        <label><input class="inline" type="radio" name="citizenship" value="protected-person"></input> Voltran Protected Person</label>
+        <label><input class="inline" type="radio" name="citizenship" value="not-citizen"></input> No Voltran Citizenship</label>
+      </fieldset>
+      <fieldset>
+        <legend>Tick levels of education, certificates and other experience:</legend>
+        <label><input class="inline" type="checkbox" value="ss-exp"> At least 5+ years of Space Scouts experience</input></label>
+          <label><input class="inline" type="checkbox" value="gg-ss"> Achieved Golden Globe Badge in Space Scouts</input></label>
+          <label><input class="inline" type="checkbox" value="v-ms"> Previous Voltran Military Service</input></label>
+          <label><input class="inline" type="checkbox" value="non-v-ms"> Previous Non-Voltran Military Service</input></label>
+          <label><input class="inline" type="checkbox" value="stem-bd-md"> Has a STEM BD or MD</input></label>
+          <label><input class="inline" type="checkbox" value="stem-pd"> Has a STEM PD</input></label>
+          <label><input class="inline" type="checkbox" value="bench-225"> Can bench 225</input></label>
+      </fieldset>
+      <label class="bold">
+        Why do you want to the Space Corps?
+        <textarea placeholder="I want to join because..." required></textarea>
+      </label>
+      <label><input id="submit" type="submit"></input></label>
+    </form>
+  </body>
+</html
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  background-color: #7e8c36;
+}
+
+label {
+  display: block;
+}
+
+p[id="quote-1"], h1 {
+  text-align: center;
+}
+
+.bold, legend {
+  font-weight: bold;
+}
+
+.bold, fieldset {
+  margin: 1rem 0;
+}
+
+input, textarea, select {
+  width: 100%;
+}
+
+.inline {
+  width: unset;
+  display: inline;
+}
+
+input[id="submit"] {
+  background-color: #37af65;
+}
+
+** end of undefined **
+
