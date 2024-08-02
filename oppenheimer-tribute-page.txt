@@ -1,0 +1,209 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title id="title">J. Robert Oppenheimer</title>
+    <link rel="stylesheet" href="./styles.css">
+    <meta charset="UTF-8"/>
+  </head>
+  <body>
+    <main id="main">
+      <figure id="img-div">
+        <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/440px-Oppenheimer_%28cropped%29.jpg" alt="Picture of J. Robert Oppenheimer"/>
+        <figcaption id="img-caption">Oppenheimer in 1944</figcaption>
+      </figure>
+    </figure>
+    <div class="border"></div>
+    <div id="tribute-info">
+      <p>“If the radiance of a thousand suns were to burst at once into the sky, <br> that would be like the splendour of the mighty one <br>... Now I am become Death, the shatterer of worlds."</p>
+    <div class="border"></div>
+      <h2>Short timeline of Oppenheimer's life:</h2>
+      <ul>
+        <li><b>1904, April 22</b> - Born in New York, N. Y.</li>
+        <li><b>1922</b> - Enrolled in Harvard College, aged 18.</li>
+        <li><b>1925</b> - Obtained a degree in Chemistry from Harvard College.</li>
+        <li><b>1926</b> - Published his first paper, concerning the Quantum Theory of Molecular Band Spectra.</li>
+        <li><b>1927</b> - Obtained a doctorate in Physics, aged 23.</li>
+        <li><b>1929</b> - Wall Street crashed, Oppenheimer uninformed on world affairs would only learn of this six months later.</li>
+        <li><b>1931</b> - Co-wrote a paper named “Relativistic Theory of the Photoelectric Effect”.
+          <ul>
+            <li class="nested-list">Which correctly disputed Paul Dirac’s assertion that two of the energy levels of the hydrogen atom have the same energy.</li>
+            <li class="nested-list">One of his doctoral students (Willis Lamb) would determine this was a consequence of something known as the Lamb shift, for which he would be aware the Novel Prize in Physics in 1955.</li>
+          </ul>
+        </li>
+        <li><b>1934</b> - Would earmark 3% of his annual salary for two years, to support German physicists fleeing Nazi Germany.</li>
+        <li><b>1935</b> - When experiments would show some elements became radioactive when under deuteron bombardment, Oppenheimer and his colleague Philips worked out a theory, known as the Oppenheimer-Philips process that is still in use today.</li>
+        <li><b>1936</b> - Promoted to a Full Professor.</li>
+        <li><b>1938</b> - Published a scientific paper “On the Stability of Stellar Neutron Cores”, co-written with a scientist called Serber.</li>
+          <ul>
+            <li class="nested-list">Exploring the properties of white dwarfs.</li>
+          </ul>
+        <li><b>1938</b> - Then co-wrote “On Massive Neutron Cores” with one of his students George Volkoff, demonstrating a limit known as the “Tolman-Oppenheimer-Volkoff” limit.</li>
+          <ul>
+            <li class="nested-list">Similar to the Chandrasekhar limit for white dwarf stars, the TOV limit is an upper bound to the mass of cold, non-rotating neutron stars.</li>
+            <li class="nested-list">Stars more massive than the TOV limit collapse into black holes.</li>
+            </ul>
+        <li><b>1939</b> - Joined the American Committee for Democracy and Intellectual Freedom, which campaigned against the persecution of Jewish scientists in Nazi Germany.</li>
+          <ul>
+            <li class="nested-list">This committee, like most liberal groups in that era, was later labelled as a communist front.
+            </li>
+          </ul>
+        <li><b>1939</b> - Oppenheimer and another student, Hartland Snyder, produced a paper “On Continued Gravitational Contraction”.</li>
+          <ul>
+            <li class="nested-list">Predicted the existence of what later became termed black holes.</li>
+          </ul>
+        <li><b>1940</b> - Married Katherine Puening.</li>
+        <li><b>1941</b> - Recruited into the Manhattan Project, a crash program to develop an atomic bomb.</li>
+        <li><b>1942</b> - Tasked with taking over fast neutron calculations, and hosted a summer school for atomic bomb theory in Berkeley.</li>
+        <li><b>1943</b> - Appointed director of the project’s Los Alamos Laboratory in New Mexico.</li>
+        <li><b>Feb, 1945</b> - Little Boy and Fat Man bombs are created.</li>
+        <li><b>Jul, 1945</b> - First test of the atomic bomb, known as the Trinity Test.</li>
+          <ul>
+            <li class="nested-list">The first detonation of a nuclear weapon, which was nicknamed the “gadget” and was of the same design as the Fat Man. </li>
+            <li class="nested-list">The Trinity bomb released the explosive energy of 25 kilotons of TNT (+- 2 kilotons of TNT), and a large cloud of fallout.</li>
+            <li class="nested-list">The shockwave took 40 seconds to reach the observers, and was felt from over 160km away, the mushroom cloud reached 7.5 miles in height.
+            </li>
+            <li class="nested-list">Oppenheimer's brother Frank recalled Oppenheimer's first words as "I guess it worked."</li>
+          </ul>
+        <li><b>Aug 6 and 9, 1945</b> - Atomic bomb used against Japan in the bombings of Hiroshima and Nagasaki.
+          <ul>
+            <li class="nested-list">Total Killed: 129,000 - 226,000. Most of which were civilians.</li>
+            <figure>
+              <figcaption>Listen to Truman talking about the Bombings of Hiroshima:</figcaption>
+              <audio controls src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Truman_on_Hiroshima.oga"></audio>
+            </figure>
+          </ul>
+        </li>
+        <li class="special-case"><b>Oct, 1945</b> - Met with Harry S. Truman, the US president at the time.</li>
+          <ul>
+            <li class="nested-list">Dismissed Oppenheimer’s concern about an arms race with the Soviet Union and the belief that atomic energy should be under international control.</li>
+            <li class="nested-list">Truman became infuriated when Oppenheimer said “Mr. President, I feel I have blood on my hands” responding that Truman bore sole responsibility	for the decision to use atomic weapons against Japan, later Truman would say “I don’t want to see that son of a bitch in this office ever again”.</li>
+          </ul>
+        <li>1946<b></b> - Awarded the Medal for Merit by Truman.</li>
+          <ul>
+            <li class="nested-list">Highest civilian decoration, for civilians who “distinguished themselves by exceptionally meritorious conduct in the performance of outstanding services”.</li>
+          </ul>
+        <li><b>1947</b> - Appointed director of the Institute for Advanced Study.</li>
+        <li><b>1949</b> - Oppenheimer as a chairman of the General Advisory Committee of the Atomic Energy Commission, recommended against the development of “the Super” a far more powerful, nuclear fusion-based hydrogen bomb.</li>
+          <ul>
+            <li class="nested-list">This was because the Soviet Union tested their first atomic bomb in August of 1949.</li>
+            <li class="nested-list">Oppenheimer and the GAC recommended against this not only because of ethical concerns, but also the opportunity	costs that would be incurred if nuclear reactors diverted materials needed for atom bomb production to materials needed for a thermonuclear weapon.</li>
+            <li class="nested-list">This decision was endorsed by the majority of the AEC.</li>
+            <li class="nested-list">The extreme danger to mankind inherent in the proposal [to develop thermonuclear weapons] wholly outweighs any military advantage.</li>
+          </ul>
+        <li><b>1950</b> - Truman made the formal decision to proceed with the development of the weapon.</li>
+        <li><b>1951</b> - Designs for a hydrogen bomb developed by Teller and mathematician Stanislaw Ulam.</li>
+        <li><b>1954</b> - Recovation of Oppenheimer's security clearance.</li>
+          <ul>
+            <li class="nested-list">Due to his past communist ties and his association with suspected disloyal or communist scientists during the Manhattan Project. Followed by an examination of Oppenheimer’s opposition to the H-bomb and stances in subsequent projects and study groups.</li>
+            <li class="nested-list">Many top scientists as well as government and military figures testified on Oppenheimer’s behalf, however Oppenheimer’s clearance was still revoked by a 2–1 vote.</li>
+          </ul>
+        <li><b>1963</b> - Awarded the Enrico Fermi Award.</li>
+          <ul>
+            <li class="nested-list">Awarded to scientists of international stature for their lifetime achievement in the development, use or production of energy.</li>
+            <li class="nested-list">JFK was originally going present this award, however due to his assassination his successor Lyndon Johnson did so in December instead.</li>
+          </ul>
+        <li><b>1965</b> - Diagnosed with throat cancer.</li>
+        <li><b>1966</b> - Gave up his position as director of the Institute for Advanced Study due to his failing health.</li>
+        <li><b>1967</b> - Died in Princeton, N.J. in his sleep of throat cancer. (Aged 62).</li>
+        <li><b>2022</b> - Revocation of his security clearance in 1954 was vacated by the U.S. federal government.</li>
+          <ul>
+            <li class="nested-list">"In 1954, the Atomic Energy Commission revoked Dr. Oppenheimer's security clearance through a flawed process that violated the Commission's own regulations. As time has passed, more evidence has come to light of the bias and unfairness of the process that Dr. Oppenheimer was subjected to while the evidence of his loyalty and love of country have only been further affirmed."</li>
+          </ul>
+      </ul>
+    </div>
+    <div class="border"></div>
+    <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer">Sources, as well as additional reading</a>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+main {
+  background-color: #c6c6c6;
+  border-radius: 5px;
+  font-family: Verdana, san-serif;
+  padding: 1% 0;
+}
+
+#img-div {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  border: 5px solid black;
+  max-width: 440px;
+  border-radius: 3px;
+  background-color: black;
+  color: white;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+h2, a {
+  margin: 0;
+}
+
+ul {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+ul, a {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.border {
+  padding: 3px;
+  max-width: 100%;
+  border-bottom: 2px solid #8a8a8a;
+}
+
+li {
+  text-align: left;
+  width: 75%;
+  padding: 0.5% 0;
+}
+
+audio {
+  padding-top: 2%;
+}
+
+audio, h2, a {
+  padding-bottom: 0%;
+}
+
+a {
+  padding-top: 0.7%;
+  color: blue;
+}
+
+#special-case {
+  padding-top: 0;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: white;
+}
+
+** end of undefined **
+
